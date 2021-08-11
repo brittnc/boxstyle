@@ -57,5 +57,3 @@ document.getElementById("button6").addEventListener("click", function(){
 
 
 });
-
-
